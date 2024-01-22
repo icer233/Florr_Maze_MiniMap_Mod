@@ -1,0 +1,1 @@
+wat2wasm client.wat -o cli.wasm
