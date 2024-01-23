@@ -1,7 +1,6 @@
 # 启用Florr中Maze的MiniMap功能教程
 ![badge1](https://img.shields.io/badge/License-MIT-blue) ![badge2](https://img.shields.io/badge/Language-Python-green)
 
-**其他语言版本: [简体中文](README.md), [English](README_en.md).**
 
 ## 部署
 
