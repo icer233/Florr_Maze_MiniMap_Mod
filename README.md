@@ -52,7 +52,7 @@ git clone git@github.com:icer233/Florr_Maze_MiniMap_Mod.git
 
 14. 打开florr，运行`T04.bat`，刷新florr
 
-## 提示
+## 说明
 
 1. M28每更新一次游戏就需要重复一遍以上所有步骤，没有更新每次使用从第12步开始操作，使用完记得类比第12步关闭代理
 2. 你可以在游戏中按下`；`再游戏右下角看到 **“Build”+日期** 这就是游戏版本
